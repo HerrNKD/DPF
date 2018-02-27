@@ -1,3 +1,3 @@
-# PFR
+# DPF
 
-Photo Folder Refresher
+my simple Duplicate Photo Fixer
